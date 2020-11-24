@@ -1,5 +1,3 @@
-This code is associated with the paper from Pisokas, I. "Reverse Engineering and Robotics as Tools for Analyzing Neural Circuits". Frontiers in Neurorobotics, 2020. 
-
 # Code used in Pisokas, I. "Reverse Engineering and Robotics as Tools for Analyzing Neural Circuits". Frontiers in Neurorobotics, 2020. 
 
 This is the code accompanying the Pisokas, I. "Reverse Engineering and Robotics as Tools for Analyzing Neural Circuits". Frontiers in Neurorobotics, 2020. It uses the code in the directory Kakaria_deBivort_2017/ for running the simulations. The code in Kakaria_deBivort_2017/ is modified version of the code made available by Kakaria and de Bivort, 2017.
